@@ -1,9 +1,9 @@
 {
-  "name": "family",
-  "description": "WhatsApp Bot Using Library Baileys Multi Device",
-  "repository": "https://github.com/fokusdotid/family-md",
+  "name": "Thr_Bot",
+  "description": "WhatsApp Bot",
+  "repository": "https://github.com/The-Rifan/Thr_Bot MD",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "family", "familymd", "familybot", "family-md", "games-wabot", "epic rpg"],
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "Thr_Bot", "Thr_Bot MD", "games-wabot", "epic rpg"],
   "buildpacks": [
   {"url": "heroku/nodejs"},
   {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git​"},
